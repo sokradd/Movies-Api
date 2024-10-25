@@ -37,7 +37,7 @@ Ensure that you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/movies-api.git
+git clone https://github.com/sokradd/Movies-Api.git
 cd movies-api
 ```
 
