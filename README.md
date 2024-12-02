@@ -14,7 +14,7 @@ A RESTful API for managing a movie database, developed using Spring Boot and JPA
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://gitea.kood.tech/sokrad/kmdb.git
+   git clone https://github.com/sokradd/Movies-Api.git
    cd movies-api
 
 ## Endpoints Overview
